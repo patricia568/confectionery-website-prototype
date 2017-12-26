@@ -24,3 +24,15 @@ body {
 header img {
   width: 10%;
 }
+
+.icon-left {
+  float: left;
+}
+
+h1 {
+  float: left;
+}
+
+.icon-right {
+  float: right;
+}
