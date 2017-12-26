@@ -112,6 +112,15 @@ header nav ul li a {
   color: #fff;
 }
 
-.welcome h2 {
+.welcome h2, .welcome p {
   margin: 0;
+  text-align: center;
+}
+
+.welcome {
+  background-color: #696969;
+  color: #F8F8FF;
+  margin: 15px;
+  border: solid #000 2px;
+  border-radius: 10px;
 }
