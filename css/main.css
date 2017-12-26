@@ -22,7 +22,7 @@ body {
 }
 
 header img {
-  width: 10%;
+  width: 17%;
 }
 
 .icon-left {
@@ -34,5 +34,17 @@ h1 {
 }
 
 .icon-right {
-  float: right;
+  float: left;
+}
+
+nav {
+  clear: both;
+}
+
+img {
+  width: 100%;
+}
+
+header img {
+  width: 10%;
 }
