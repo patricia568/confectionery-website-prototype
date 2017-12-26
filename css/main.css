@@ -112,9 +112,16 @@ header nav ul li a {
   color: #fff;
 }
 
-.welcome h2, .welcome p {
+.welcome h2 {
   margin: 0;
   text-align: center;
+  font-size: 1.3rem;
+}
+
+.welcome p {
+  margin: 0;
+  text-align: center;
+  font-size: .8rem;
 }
 
 .welcome {
@@ -123,4 +130,38 @@ header nav ul li a {
   margin: 15px;
   border: solid #000 2px;
   border-radius: 10px;
+  padding: 5px;
+}
+
+.recipe-card h2 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.recipe-card h3 {
+  margin: 0;
+  font-size: .8rem;
+}
+
+.recipe-card h4 {
+  margin: 0;
+  font-size: .6rem;
+}
+
+.recipe-card ul {
+  margin-top: 0;
+}
+
+.recipe-card ul li {
+  font-size: .6rem;
+}
+
+.recipe-card ol {
+  padding: 0;
+  margin: 0;
+  list-style-type: upper-roman;
+}
+
+.recipe-card ol li {
+  font-size: .6rem;
 }
