@@ -9,6 +9,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: 'Raleway', sans-serif;
 
   box-sizing: border-box;
 }
@@ -57,4 +58,13 @@ nav {
 
 header img {
   width: 30px;
+}
+
+header nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+header nav ul li a {
+  text-decoration: none;
 }
