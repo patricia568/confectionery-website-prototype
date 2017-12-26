@@ -20,3 +20,7 @@ html {
 body {
   margin: 0;
 }
+
+header img {
+  width: 10%;
+}
