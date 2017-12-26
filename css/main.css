@@ -35,6 +35,7 @@ h1 {
   font-family: 'Emilys Candy', cursive;
   margin: 0;
   font-size: 1.6rem;
+  text-align: center;
 }
 
 .icon-right {
@@ -44,19 +45,19 @@ h1 {
 
 .header-icon {
   text-align: center;
-  margin: auto;
-  width: 95%;
-  background-color: #d3d3d3;
+  width: 100%;
+  background-color: #D3D3D3;
+  padding-bottom: 40px;
+  margin: 0 auto;
+  padding-top: 20px;
+  display: block;
 }
 
 nav {
   clear: both;
 }
 
-img {
-  width: 100%;
-}
-
 header img {
   width: 10%;
+  max-width: 10%;
 }
