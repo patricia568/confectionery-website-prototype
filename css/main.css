@@ -84,3 +84,12 @@ header nav ul li a {
 .background-figure {
   width: 100%;
 }
+
+.promotion-text h2 {
+  margin: 0;
+  font-family: 'Anton', sans-serif;
+}
+
+.promotion-text p {
+  margin: 0;
+}
