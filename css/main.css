@@ -42,6 +42,12 @@ h1 {
   margin-left: 5px;
 }
 
+.header-icon {
+  text-align: center;
+  margin: auto;
+  width: 95%;
+}
+
 nav {
   clear: both;
 }
