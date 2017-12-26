@@ -27,16 +27,19 @@ header img {
 
 .icon-left {
   float: left;
+  margin-right: 5px;
 }
 
 h1 {
   float: left;
   font-family: 'Emilys Candy', cursive;
   margin: 0;
+  font-size: 1.6rem;
 }
 
 .icon-right {
   float: left;
+  margin-left: 5px;
 }
 
 nav {
