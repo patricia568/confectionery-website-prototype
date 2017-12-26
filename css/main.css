@@ -136,17 +136,20 @@ header nav ul li a {
 .recipe-card h2 {
   margin: 0;
   font-size: 1rem;
-  font-family: 'Anton', sans-serif;
+  text-decoration: underline;
+  text-align: center;
 }
 
 .recipe-card h3 {
   margin: 0;
-  font-size: .8rem;
+  font-size: .7rem;
+  text-align: center;
 }
 
 .recipe-card h4 {
   margin: 0;
-  font-size: .6rem;
+  font-size: .7rem;
+  margin-top: 15px;
 }
 
 .recipe-card ul {
@@ -154,7 +157,7 @@ header nav ul li a {
 }
 
 .recipe-card ul li {
-  font-size: .6rem;
+  font-size: .7rem;
 }
 
 .recipe-card ol {
