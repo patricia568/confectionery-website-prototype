@@ -44,10 +44,11 @@ h1 {
   text-align: center;
   width: 100%;
   background-color: #D3D3D3;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
   margin: 0;
   padding-top: 20px;
-
+  border-top: solid #A9A9A9 8px;
+  border-bottom: solid #A9A9A9 8px;
 }
 
 nav {
