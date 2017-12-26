@@ -32,6 +32,7 @@ header img {
 h1 {
   float: left;
   font-family: 'Emilys Candy', cursive;
+  margin: 0;
 }
 
 .icon-right {
