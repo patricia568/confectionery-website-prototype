@@ -21,17 +21,13 @@ body {
   margin: 0;
 }
 
-header img {
-  width: 15%;
-}
-
 .icon-left {
   float: left;
   margin-right: 5px;
+  margin-left: 5px;
 }
 
 h1 {
-  float: left;
   font-family: 'Emilys Candy', cursive;
   margin: 0;
   font-size: 1.6rem;
@@ -39,18 +35,18 @@ h1 {
 }
 
 .icon-right {
-  float: left;
+  float: right;
   margin-left: 5px;
+  margin-right: 5px;
 }
 
 .header-icon {
   text-align: center;
   width: 100%;
   background-color: #D3D3D3;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
   margin: 0;
   padding-top: 20px;
-  display: block;
 
 }
 
