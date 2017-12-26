@@ -111,3 +111,7 @@ header nav ul li a {
   right: 2%;
   color: #fff;
 }
+
+.welcome h2 {
+  margin: 0;
+}
