@@ -131,6 +131,7 @@ header nav ul li a {
   border: solid #000 2px;
   border-radius: 10px;
   padding: 5px;
+  margin-bottom: 0;
 }
 
 .recipe-card h2 {
@@ -169,10 +170,36 @@ header nav ul li a {
 }
 
 .recipe-card {
-  width: 9.5em;
+  width: 48%;
   margin: 15px;
   background-color: #DCDCDC;
   padding: 5px;
   border: solid 1px #000;
   border-radius: 6px;
+  float: left;
+  margin-right: 7px;
+}
+
+.sprinkle {
+  width: 40%;
+  float: left;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.cupcake {
+  width: 40%;
+  float: left;
+  margin-bottom: 15px;
+}
+
+.gummy-worms {
+  width: 40%;
+  float: left;
+  margin-bottom: 15px;
+}
+
+.cup {
+  width: 40%;
+  float: left;
 }
