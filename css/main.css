@@ -169,6 +169,10 @@ header nav ul li a {
 }
 
 .recipe-card {
-  width: 10em;
+  width: 9.5em;
   margin: 15px;
+  background-color: #DCDCDC;
+  padding: 5px;
+  border: solid 1px #000;
+  border-radius: 6px;
 }
