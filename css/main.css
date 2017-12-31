@@ -200,5 +200,9 @@ header nav ul li:hover {
 }
 
 .location-card {
-  display: block;
+  clear: both;
+}
+
+.location-fig {
+  width: 100%;
 }
