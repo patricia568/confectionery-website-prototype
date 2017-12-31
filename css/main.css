@@ -204,6 +204,8 @@ header nav ul li:hover {
   text-align: center;
   background-color: #F0F8FF;
   padding-bottom: 15px;
+  margin: 5px;
+  border-radius: 15px;
 }
 
 .location-fig {
@@ -218,7 +220,7 @@ header nav ul li:hover {
 .btn-location {
   background-color: #B0C4DE;
   color: #000;
-  border: solid 2px #191970;
+  border: dashed 2px #191970;
   border-radius: 8px;
 }
 
@@ -231,4 +233,13 @@ header nav ul li:hover {
 .location-card h2 {
   margin-top: 0;
   padding-top: 10px;
+}
+
+.hours-card {
+  text-align: center;
+  width: 50%;
+}
+
+dd {
+  margin-left: 0;
 }
