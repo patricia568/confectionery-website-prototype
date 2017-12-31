@@ -81,6 +81,12 @@ header nav ul li a {
   font-weight: bold;
 }
 
+header nav ul li:hover {
+  background-color: #FFDAB9;
+  color: #fff;
+  border: solid #BC8F8F 2px;
+}
+
 .background-figure {
   width: 100%;
 }
@@ -184,19 +190,19 @@ header nav ul li a {
   width: 40%;
   float: left;
   margin-top: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .cupcake {
   width: 40%;
   float: left;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .gummy-worms {
   width: 40%;
   float: left;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .cup {
