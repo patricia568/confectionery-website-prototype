@@ -201,8 +201,34 @@ header nav ul li:hover {
 
 .location-card {
   clear: both;
+  text-align: center;
+  background-color: #F0F8FF;
+  padding-bottom: 15px;
 }
 
 .location-fig {
   width: 100%;
+}
+
+.btn {
+  text-decoration: none;
+  padding: 10px;
+}
+
+.btn-location {
+  background-color: #B0C4DE;
+  color: #000;
+  border: solid 2px #191970;
+  border-radius: 8px;
+}
+
+.btn-location:hover {
+  background-color: #191970;
+  color: #fff;
+  border-color: #B0C4DE;
+}
+
+.location-card h2 {
+  margin-top: 0;
+  padding-top: 10px;
 }
