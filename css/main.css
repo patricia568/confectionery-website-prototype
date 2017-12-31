@@ -243,6 +243,7 @@ header nav ul li:hover {
   border-radius:15px;
   margin: 5px;
   font-size: .8rem;
+  font-family: sans-serif;
 }
 
 dd {
@@ -253,9 +254,30 @@ dd {
   width: 50%;
   margin: 5px;
   padding: 5px;
-  color: #CD853F;
+  color: #708090;
   font-size: 1.7rem;
   text-align: center;
   font-family: 'Abril Fatface', cursive;
   font-weight: normal;
+}
+
+em {
+  font-weight: bold;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.hours-arrow {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.hours {
+  background-color: #DEB887;
+  margin: 5px;
+  padding-bottom: 10px;
+  border-radius: 15px;
 }
