@@ -237,9 +237,25 @@ header nav ul li:hover {
 
 .hours-card {
   text-align: center;
-  width: 50%;
+  width: 45%;
+  float: right;
+  background-color: #FFFACD;
+  border-radius:15px;
+  margin: 5px;
+  font-size: .8rem;
 }
 
 dd {
   margin-left: 0;
+}
+
+.hours-title {
+  width: 50%;
+  margin: 5px;
+  padding: 5px;
+  color: #CD853F;
+  font-size: 1.7rem;
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: normal;
 }
