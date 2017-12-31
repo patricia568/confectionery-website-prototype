@@ -193,19 +193,12 @@ header nav ul li:hover {
   margin-bottom: 10px;
 }
 
-.cupcake {
+.cupcake, .gummy-worms, .cup {
   width: 40%;
   float: left;
   margin-bottom: 10px;
 }
 
-.gummy-worms {
-  width: 40%;
-  float: left;
-  margin-bottom: 10px;
-}
-
-.cup {
-  width: 40%;
-  float: left;
+.location-card {
+  display: block;
 }
