@@ -21,6 +21,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #F5F5F5;
 }
 
 .icon-left {
@@ -45,12 +46,12 @@ h1 {
 .header-icon {
   text-align: center;
   width: 100%;
-  background-color: #D3D3D3;
+  background-color: #D8BFD8;
   padding-bottom: 20px;
   margin: 0;
   padding-top: 20px;
-  border-top: solid #A9A9A9 8px;
-  border-bottom: solid #A9A9A9 8px;
+  border-top: solid #800080 8px;
+  border-bottom: solid #800080 8px;
 }
 
 nav {
@@ -69,10 +70,13 @@ header nav ul {
 }
 
 header nav ul li {
-  margin-bottom: 5px;
-  margin-top: 5px;
-  background-color: #DCDCDC;
-  border: solid #A9A9A9 2px;
+  margin: 0;
+  background-color: #F08080;
+  border: solid #800000 2px;
+}
+
+header nav ul li:nth-child(odd) {
+  background-color: #FFC0CB;
 }
 
 header nav ul li a {
@@ -131,8 +135,8 @@ header nav ul li:hover {
 }
 
 .welcome {
-  background-color: #696969;
-  color: #F8F8FF;
+  background-color: #FFF0F5;
+  color: #000;
   margin: 15px;
   border: solid #000 2px;
   border-radius: 10px;
@@ -178,7 +182,7 @@ header nav ul li:hover {
 .recipe-card {
   width: 48%;
   margin: 15px;
-  background-color: #DCDCDC;
+  background-color: #E6E6FA;
   padding: 5px;
   border: solid 1px #000;
   border-radius: 6px;
@@ -239,7 +243,7 @@ header nav ul li:hover {
   text-align: center;
   width: 45%;
   float: right;
-  background-color: #FFFACD;
+  background-color: #EEE8AA;
   border-radius:15px;
   margin: 5px;
   font-size: .8rem;
@@ -276,7 +280,7 @@ dt {
 }
 
 .hours {
-  background-color: #DEB887;
+  background-color: #FFF8DC;
   margin: 5px;
   padding-bottom: 10px;
   border-radius: 15px;
