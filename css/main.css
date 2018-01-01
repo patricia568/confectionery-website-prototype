@@ -285,3 +285,44 @@ dt {
   padding-bottom: 10px;
   border-radius: 15px;
 }
+
+.people img {
+  width: 100%;
+}
+
+.people {
+  text-align: center;
+  margin: 5px;
+  background-color: #d7efe2;
+  border-radius: 15px;
+}
+
+.people h3 {
+  margin: 0;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.people h2 {
+  margin: 0;
+  font-family: 'Limelight', cursive;
+}
+
+.people figure {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.people figcaption {
+  font-size: .8rem;
+}
+
+.george, .emma, .jerry {
+  margin-top: 10px;
+}
+
+footer {
+  font-size: .6rem;
+  padding: 10px;
+  background-color: #D8BFD8;
+  margin-top: 15px;
+}
