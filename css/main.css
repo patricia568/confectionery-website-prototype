@@ -70,9 +70,9 @@ header nav ul {
 }
 
 header nav ul li {
-  margin: 0;
+  margin: 2px 0px 0px 0px;
   background-color: #F08080;
-  border: solid #800000 2px;
+  border-radius: 5px;
 }
 
 header nav ul li:nth-child(odd) {
