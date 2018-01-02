@@ -87,8 +87,10 @@ header nav ul li a {
 
 header nav ul li:hover {
   background-color: #FFDAB9;
-  color: #fff;
-  border: solid #BC8F8F 2px;
+}
+
+.current {
+  color: #800080;
 }
 
 .background-figure {
