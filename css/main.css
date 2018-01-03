@@ -46,12 +46,12 @@ h1 {
 .header-icon {
   text-align: center;
   width: 100%;
-  background-color: #D8BFD8;
+  background-color: #FFC0CB;
   padding-bottom: 20px;
   margin: 0;
   padding-top: 20px;
-  border-top: solid #800080 8px;
-  border-bottom: solid #800080 8px;
+  border-top: solid #F08080 8px;
+  border-bottom: solid #F08080 8px;
 }
 
 nav {
@@ -330,6 +330,8 @@ footer {
 }
 
 <!-- About us page starts here! -->
+
+
 
 <!-- Our goodies page starts here! -->
 
