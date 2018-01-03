@@ -363,8 +363,22 @@ footer {
   margin-bottom: 0;
 }
 
+
+
 .menu-items img {
   width: 200px;
   display: block;
   margin: 0 auto;
+}
+
+.menu-items {
+  text-align: center;
+}
+
+.menu-items p {
+  margin: 0;
+}
+
+.menu-items h3 {
+  margin-bottom: 5px;
 }
