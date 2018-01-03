@@ -335,6 +335,10 @@ footer {
   width: 100%;
 }
 
-<!-- Our goodies page starts here! -->
-
-<!-- Contact us page starts here! -->
+.about-us-card {
+  background: rgba(130, 103, 61, 0.5);
+  color: #000;
+  border-radius: 10px;
+  text-align: center;
+  padding: 5px;
+}
