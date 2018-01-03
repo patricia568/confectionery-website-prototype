@@ -362,3 +362,9 @@ footer {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+.menu-items img {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
