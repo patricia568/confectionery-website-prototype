@@ -463,4 +463,15 @@ footer {
   .hours {
     padding-bottom: 34px;
   }
+
+  .hours-content {
+    width: 370px;
+    max-width: 370px;
+    margin: auto;
+  }
+
+  .hours-card {
+    width: 150px;
+  }
+
 }
