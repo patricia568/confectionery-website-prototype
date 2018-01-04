@@ -553,4 +553,21 @@ footer {
     margin: 0 0 1.5rem;
   }
 
+  h1 {
+    text-align: left;
+  }
+
+  .icon-left {
+    margin-top: 7px;
+  }
+
+  .icon-right {
+    display: none;
+  }
+
+  header nav ul {
+    width: 60%;
+    float: right;
+    margin-top: -60px;
+
 }
