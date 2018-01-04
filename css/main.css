@@ -569,5 +569,18 @@ footer {
     width: 60%;
     float: right;
     margin-top: -60px;
+  }
 
-}
+  .promotion-card {
+    width: 75%;
+    display: inline-block;
+    margin-left: 15px;
+  }
+
+  .welcome {
+    width: 20%;
+    float: right;
+    margin-top: 70px;
+  }
+
+  }
