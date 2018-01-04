@@ -418,3 +418,11 @@ footer {
 .contact-methods img {
   width: 100px;
 }
+
+.contact-methods h3 {
+  font-size: 1.2rem;
+}
+
+.contact-methods {
+  text-align: center;
+}
