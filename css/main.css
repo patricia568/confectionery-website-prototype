@@ -503,4 +503,12 @@ footer {
   float: left;
   }
 
+  .recipe-card {
+    width: 35%;
+  }
+
+  .sprinkle, .cupcake, .gummy-worms, .cup {
+    display: inline-block;
+    width: 175px;
+  }
 }
