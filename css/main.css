@@ -503,12 +503,40 @@ footer {
   float: left;
   }
 
-  .recipe-card {
-    width: 35%;
+  .sprinkle, .cupcake, .gummy-worms, .cup {
+    display: none;
   }
 
-  .sprinkle, .cupcake, .gummy-worms, .cup {
+  .recipe-and-images {
+    text-align: center;
+  }
+
+  .recipe-card {
+    width: 45%;
+    text-align: left;
+  }
+
+  .hours-card {
+    width: 45%;
+  }
+
+  .location-card {
+    width: 45%;
     display: inline-block;
-    width: 175px;
+    margin: 15px;
+  }
+
+  .location-fig {
+    width: 55%;
+  }
+
+  .hours-content {
+    width: 430px;
+    max-width: 400px;
+  }
+
+  .george, .emma, .jerry {
+    width: 30%;
+    display: inline-block;
   }
 }
