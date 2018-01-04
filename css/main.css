@@ -440,8 +440,8 @@ footer {
   }
 
   header nav ul li {
-  width: 50%;
-  float: left;
+    width: 50%;
+    float: left;
   }
 
   header nav {
@@ -455,6 +455,16 @@ footer {
   .promotion-card {
     margin-top: 70px;
   }
+
+   .sprinkle, .cupcake, .gummy-worms {
+    width: 150px;
+    float: none;
+    display: inline-block;
+   }
+
+   .recipe-card {
+     width: 55%;
+   }
 
   .cup {
     display: none;
@@ -472,8 +482,8 @@ footer {
 
   .hours-card {
     width: 150px;
-
   }
+
 
 }
 
@@ -486,6 +496,11 @@ footer {
 
   h1, p {
     margin: 0 0 1.4rem;
+  }
+
+  header nav ul li {
+  width: 25%;
+  float: left;
   }
 
 }
