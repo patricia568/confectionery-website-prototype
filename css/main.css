@@ -375,6 +375,11 @@ footer {
   text-align: center;
 }
 
+.menu-items h2 {
+  background-color: #efdcbd;
+  padding: 2px;
+}
+
 .menu-items p {
   margin: 0;
 }
@@ -492,6 +497,7 @@ footer {
     margin-top: 80px;
   }
 
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -553,6 +559,23 @@ footer {
     margin: 0 auto;
     margin-top: 70px;
   }
+
+
+  .card-1, .card-2, .card-3, .card-4 {
+    width: 45%;
+    display: inline-block;
+    margin-top: 5px;
+  }
+
+  .card-1 h2, .card-2 h2, .card-3 h2, .card-4 h2 {
+    margin-top: 5px;
+    font-size: 1.4rem;
+  }
+
+  .card-4 .image {
+    margin-top: 27px;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -625,4 +648,29 @@ footer {
   .people {
     margin-top: 60px;
   }
+
+
+  .card-1, .card-2, .card-3, .card-4 {
+    width: 24%;
   }
+
+  .card-1 h2, .card-2 h2, .card-3 h2, .card-4 h2 {
+    font-size: 1.3rem;
+  }
+
+  .menu-items {
+    margin: 0;
+  }
+
+  .card-3 .image {
+    margin-top: 30px;
+  }
+
+  .card-4 .image {
+    margin-top: 8px;
+  }
+
+  .card-4 h2 {
+    margin-bottom: 9px;
+  }
+}
