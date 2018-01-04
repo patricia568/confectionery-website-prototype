@@ -455,4 +455,12 @@ footer {
   .promotion-card {
     margin-top: 70px;
   }
+
+  .cup {
+    display: none;
+  }
+
+  .hours {
+    padding-bottom: 34px;
+  }
 }
