@@ -426,3 +426,33 @@ footer {
 .contact-methods {
   text-align: center;
 }
+
+
+@media only screen and (min-width: 25em) {
+
+  html {
+    font-size: 100%;
+    line-height: 1.3;
+  }
+
+  h1, p {
+    margin: 0 0 1.3rem;
+  }
+
+  header nav ul li {
+  width: 50%;
+  float: left;
+  }
+
+  header nav {
+    margin-top: -15px;
+  }
+
+  .header-icon {
+    padding-bottom: 0;
+  }
+
+  .promotion-card {
+    margin-top: 70px;
+  }
+}
