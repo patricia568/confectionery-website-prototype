@@ -408,3 +408,13 @@ footer {
 .card-1 h2 {
   margin-top: 5px;
 }
+
+
+
+.contact-us p {
+  font-size: 1rem;
+}
+
+.contact-methods img {
+  width: 100px;
+}
