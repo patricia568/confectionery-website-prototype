@@ -432,7 +432,21 @@ footer {
   text-align: center;
 }
 
+.btn-small {
+  font-size: .8rem;
+  margin: 5px;
+  color: #000;
+  background-color: #e09f9f;
+  border-radius: 5px;
+  border: solid 1px #b74747;
+  padding: 3px;
+}
 
+.btn-small:hover {
+  background-color: #b74747;
+  color: #fff;
+  border: solid 1px #e09f9f;
+}
 @media only screen and (min-width: 25em) {
 
   html {
@@ -496,6 +510,7 @@ footer {
     margin: 0 auto;
     margin-top: 80px;
   }
+
 
 
 }
@@ -677,4 +692,14 @@ footer {
   .card-4 h2 {
     margin-bottom: 9px;
   }
+
+  .card-1-content, .card-2-content, .card-3-content, .card-4-content {
+    width: 210px;
+    max-width: 210px;
+  }
+
+  .card-3 .image {
+    margin-top: 30px;
+  }
+
 }
