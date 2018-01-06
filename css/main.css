@@ -442,11 +442,19 @@ footer {
   padding: 3px;
 }
 
+
+
+
 .btn-small:hover {
   background-color: #b74747;
   color: #fff;
   border: solid 1px #e09f9f;
 }
+
+.contact-method-phone, .contact-method-email, .contact-method-in-person {
+  background-color: #e09f9f;
+}
+
 @media only screen and (min-width: 25em) {
 
   html {
