@@ -751,3 +751,21 @@ footer {
   }
 
 }
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 130%;
+  }
+
+  .recipe-card {
+    display: inline-block;
+  }
+
+  .card-1-content, .card-2-content, .card-3-content, .card-4-content {
+    width: 230px;
+    max-width: 230px;
+    }
+  }
+
+}
