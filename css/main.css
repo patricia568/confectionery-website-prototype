@@ -453,11 +453,14 @@ footer {
 
 .contact-method-phone, .contact-method-email, .contact-method-in-person {
   background-color: #e09f9f;
-  text-decoration: none;
   width: 80%;
   border-radius: 5px;
   margin: auto;
   margin-top: 10px;
+}
+
+.link-card {
+  text-decoration: none;
   color: #000;
 }
 
@@ -467,6 +470,10 @@ footer {
 
 .contact-method-phone, .contact-method-email, .contact-method-in-person {
   padding-bottom: 10px;
+}
+
+.contact-method-phone:hover, .contact-method-email:hover, .contact-method-in-person:hover {
+  background-color: #ea8f8f;
 }
 
 @media only screen and (min-width: 25em) {
@@ -617,6 +624,12 @@ footer {
     width: 260px;
     max-width: 260px;
     margin: 0 auto;
+  }
+
+  .contact-method-phone, .contact-method-email, .contact-method-in-person {
+    width: 40%;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
