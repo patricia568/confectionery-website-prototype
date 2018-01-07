@@ -288,6 +288,11 @@ dt {
   border-radius: 15px;
 }
 
+.hours-box {
+  width: 310px;
+  max-width: 310px;
+  margin: auto;
+}
 .people img {
   width: 100%;
 }
@@ -518,20 +523,18 @@ footer {
     display: none;
   }
 
-  .hours {
-    padding-bottom: 34px;
-  }
-
   .hours-content {
-    width: 370px;
-    max-width: 370px;
-    margin: auto;
+    padding-bottom: 5px;
   }
 
-  .hours-card {
-    width: 150px;
+  .hours-box {
+    width: 350px;
+    max-width: 510px;
   }
 
+  .hours-arrow {
+    width: 45%;
+  }
 
   .about-us {
     clear: both;
@@ -590,6 +593,7 @@ footer {
   .hours-content {
     width: 430px;
     max-width: 400px;
+
   }
 
   .george, .emma, .jerry {
@@ -628,6 +632,7 @@ footer {
 
   .contact-method-phone, .contact-method-email, .contact-method-in-person {
     width: 40%;
+    display: inline-block;
   }
 
 }
@@ -693,10 +698,14 @@ footer {
   .hours {
     width: 40%;
     float: right;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
     margin-bottom: 10px;
     padding-top: 30px;
     margin-right: 20px;
+  }
+
+  .hours-card {
+    margin-top: 25px;
   }
 
   .people {
@@ -735,6 +744,10 @@ footer {
 
   .card-3 .image {
     margin-top: 30px;
+  }
+
+  .contact-method-phone, .contact-method-email, .contact-method-in-person {
+    width: 30%;
   }
 
 }
