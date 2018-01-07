@@ -453,6 +453,20 @@ footer {
 
 .contact-method-phone, .contact-method-email, .contact-method-in-person {
   background-color: #e09f9f;
+  text-decoration: none;
+  width: 80%;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 10px;
+  color: #000;
+}
+
+.contact-method-phone p, .contact-method-email p, .contact-method-in-person p {
+  margin-bottom: 0;
+}
+
+.contact-method-phone, .contact-method-email, .contact-method-in-person {
+  padding-bottom: 10px;
 }
 
 @media only screen and (min-width: 25em) {
