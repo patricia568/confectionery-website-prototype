@@ -481,6 +481,9 @@ footer {
   background-color: #ea8f8f;
 }
 
+.contact-content {
+  padding: 20px;
+}
 @media only screen and (min-width: 25em) {
 
   html {
