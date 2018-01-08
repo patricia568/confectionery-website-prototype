@@ -69,8 +69,16 @@ header nav ul {
   margin-top: 0;
 }
 
+.recipe-card ol li {
+  font-size: .6rem;
+}
+
+.recipe-card ul li {
+  font-size: .7rem;
+}
+
 header nav ul li {
-  margin: 2px 0px 0px 0px;
+  margin: 2px 0px 0px;
   background-color: #F08080;
   border-radius: 5px;
 }
@@ -165,20 +173,12 @@ header nav ul li:hover {
   margin-top: 15px;
 }
 
-.recipe-card ul {
-  margin-top: 0;
-}
-
 .recipe-card ul li {
   font-size: .7rem;
 }
 
 .recipe-card ol {
   padding-left: 10px;
-}
-
-.recipe-card ol li {
-  font-size: .6rem;
 }
 
 .recipe-card {
@@ -383,6 +383,7 @@ footer {
 .menu-items h2 {
   background-color: #efdcbd;
   padding: 2px;
+  margin-bottom: 10px;
 }
 
 .menu-items p {
@@ -409,10 +410,6 @@ footer {
 
 .menu-list {
   text-align: center;
-}
-
-.menu-items h2 {
-  margin-bottom: 10px;
 }
 
 .card-1 h2 {
@@ -462,6 +459,7 @@ footer {
   border-radius: 5px;
   margin: auto;
   margin-top: 10px;
+  padding-bottom: 10px;
 }
 
 .link-card {
@@ -471,10 +469,6 @@ footer {
 
 .contact-method-phone p, .contact-method-email p, .contact-method-in-person p {
   margin-bottom: 0;
-}
-
-.contact-method-phone, .contact-method-email, .contact-method-in-person {
-  padding-bottom: 10px;
 }
 
 .contact-method-phone:hover, .contact-method-email:hover, .contact-method-in-person:hover {
