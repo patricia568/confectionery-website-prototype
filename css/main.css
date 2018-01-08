@@ -21,7 +21,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
 }
 
 .icon-left {
@@ -46,12 +46,12 @@ h1 {
 .header-icon {
   text-align: center;
   width: 100%;
-  background-color: #FFC0CB;
+  background-color: #ffC0cb;
   padding-bottom: 20px;
   margin: 0;
   padding-top: 20px;
-  border-top: solid #F08080 8px;
-  border-bottom: solid #F08080 8px;
+  border-top: solid #f08080 8px;
+  border-bottom: solid #f08080 8px;
 }
 
 nav {
@@ -71,7 +71,7 @@ header nav ul {
 
 header nav ul li {
   margin: 2px 0px 0px;
-  background-color: #F08080;
+  background-color: #f08080;
   border-radius: 5px;
 }
 
@@ -84,7 +84,7 @@ header nav ul li {
 }
 
 header nav ul li:nth-child(odd) {
-  background-color: #FFC0CB;
+  background-color: #ffC0cb;
 }
 
 header nav ul li a {
@@ -94,7 +94,7 @@ header nav ul li a {
 }
 
 header nav ul li:hover {
-  background-color: #FFDAB9;
+  background-color: #ffdaB9;
 }
 
 .current {
@@ -145,7 +145,7 @@ header nav ul li:hover {
 }
 
 .welcome {
-  background-color: #FFF0F5;
+  background-color: #fff0f5;
   color: #000;
   margin: 15px;
   border: solid #000 2px;
@@ -180,7 +180,7 @@ header nav ul li:hover {
 .recipe-card {
   width: 48%;
   margin: 15px;
-  background-color: #E6E6FA;
+  background-color: #e6e6fa;
   padding: 5px;
   border: solid 1px #000;
   border-radius: 6px;
@@ -204,7 +204,7 @@ header nav ul li:hover {
 .location-card {
   clear: both;
   text-align: center;
-  background-color: #F0F8FF;
+  background-color: #f0f8ff;
   padding-bottom: 15px;
   margin: 5px;
   border-radius: 15px;
@@ -220,7 +220,7 @@ header nav ul li:hover {
 }
 
 .btn-location {
-  background-color: #B0C4DE;
+  background-color: #b0c4de;
   color: #000;
   border: dashed 2px #191970;
   border-radius: 8px;
@@ -229,7 +229,7 @@ header nav ul li:hover {
 .btn-location:hover {
   background-color: #191970;
   color: #fff;
-  border-color: #B0C4DE;
+  border-color: #b0c4de;
 }
 
 .location-card h2 {
@@ -241,7 +241,7 @@ header nav ul li:hover {
   text-align: center;
   width: 45%;
   float: right;
-  background-color: #EEE8AA;
+  background-color: #eee8aa;
   border-radius:15px;
   margin: 5px;
   font-size: .8rem;
@@ -278,7 +278,7 @@ dt {
 }
 
 .hours {
-  background-color: #FFF8DC;
+  background-color: #fff8dc;
   margin: 5px;
   padding-bottom: 10px;
   border-radius: 15px;
@@ -326,7 +326,7 @@ dt {
 footer {
   font-size: .6rem;
   padding: 10px;
-  background-color: #D8BFD8;
+  background-color: #d8bfd8;
   margin-top: 15px;
 }
 
@@ -733,10 +733,6 @@ footer {
   .card-1-content, .card-2-content, .card-3-content, .card-4-content {
     width: 210px;
     max-width: 210px;
-  }
-
-  .card-3 .image {
-    margin-top: 30px;
   }
 
   .contact-method-phone, .contact-method-email, .contact-method-in-person {
