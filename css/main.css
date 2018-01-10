@@ -87,7 +87,7 @@ header nav ul li:nth-child(odd) {
   background-color: #ffc0cb;
 }
 
-header nav ul li a {
+nav ul li a {
   text-decoration: none;
   color: #000;
   font-weight: bold;
@@ -340,7 +340,7 @@ footer {
 }
 
 .about-us-card {
-  background: rgba(130, 103, 61, 0.5);
+  background: rgba(130, 103, 61, .5);
   color: #fff;
   border-radius: 10px;
   text-align: center;
