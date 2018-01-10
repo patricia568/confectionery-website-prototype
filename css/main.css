@@ -46,7 +46,7 @@ h1 {
 .header-icon {
   text-align: center;
   width: 100%;
-  background-color: #ffC0cb;
+  background-color: #ffc0cb;
   padding-bottom: 20px;
   margin: 0;
   padding-top: 20px;
@@ -84,7 +84,7 @@ header nav ul li {
 }
 
 header nav ul li:nth-child(odd) {
-  background-color: #ffC0cb;
+  background-color: #ffc0cb;
 }
 
 header nav ul li a {
@@ -94,7 +94,7 @@ header nav ul li a {
 }
 
 header nav ul li:hover {
-  background-color: #ffdaB9;
+  background-color: #ffdab9;
 }
 
 .current {
