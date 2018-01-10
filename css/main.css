@@ -93,7 +93,7 @@ nav ul li a {
   font-weight: bold;
 }
 
-nav ul li:hover {
+header nav ul li:hover {
   background-color: #ffdab9;
 }
 
