@@ -242,7 +242,7 @@ header nav ul li:hover {
   width: 45%;
   float: right;
   background-color: #eee8aa;
-  border-radius:15px;
+  border-radius: 15px;
   margin: 5px;
   font-size: .8rem;
   font-family: sans-serif;
@@ -351,7 +351,7 @@ footer {
   left: 1%;
   top: 1%;
   bottom: 1%;
-  right:1%;
+  right: 1%;
 }
 
 .about-us-card p {
