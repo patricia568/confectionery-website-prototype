@@ -97,6 +97,10 @@ header nav ul li:hover {
   background-color: #ffdab9;
 }
 
+nav ul li a:hover {
+  color: #800080;
+}
+
 .current {
   color: #800080;
 }
