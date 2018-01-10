@@ -289,6 +289,7 @@ dt {
   max-width: 310px;
   margin: auto;
 }
+
 .people img {
   width: 100%;
 }
@@ -474,6 +475,7 @@ footer {
 .contact-content {
   padding: 20px;
 }
+
 @media only screen and (min-width: 25em) {
 
   html {
@@ -502,7 +504,7 @@ footer {
     margin-top: 70px;
   }
 
-   .sprinkle, .cupcake, .gummy-worms {
+  .sprinkle, .cupcake, .gummy-worms {
     width: 150px;
     float: none;
     display: inline-block;
