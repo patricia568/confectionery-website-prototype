@@ -508,11 +508,11 @@ footer {
     width: 150px;
     float: none;
     display: inline-block;
-   }
+  }
 
-   .recipe-card {
-     width: 55%;
-   }
+  .recipe-card {
+    width: 55%;
+  }
 
   .cup {
     display: none;
@@ -554,8 +554,8 @@ footer {
   }
 
   header nav ul li {
-  width: 25%;
-  float: left;
+    width: 25%;
+    float: left;
   }
 
   .sprinkle, .cupcake, .gummy-worms, .cup {
@@ -756,6 +756,6 @@ footer {
   .card-1-content, .card-2-content, .card-3-content, .card-4-content {
     width: 230px;
     max-width: 230px;
-    }
+  }
 
 }
